@@ -13,7 +13,7 @@ Languages:
 - HTML/CSS/JS (kinda)
 
 Repos of Interest:
-- */bioinformatics* is my progress through the challenges at www.rosalind.info as I try to learn bioinformatics
+- */rosalind* is my progress through the challenges at www.rosalind.info as I try to learn bioinformatics
 - */lims* is a laboratory-focused data management system (currently private)
 
 <!---
