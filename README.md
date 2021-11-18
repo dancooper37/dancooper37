@@ -1,10 +1,11 @@
 <h1>Hi</h1>
 
-What brings you here? Most of my repos are private... *sorry*
+What brings you here? Most of my repos are private while I bring them back to a reasonably tidy state... *sorry*
 
 Interests:
 - Bioinformatics
 - Machine Learning
+- Anything else except web
 
 Languages:
 - Python
@@ -13,7 +14,7 @@ Languages:
 - HTML/CSS/JS (kinda)
 
 Repos of Interest:
-- */rosalind* is my progress through the challenges at www.rosalind.info as I try to learn bioinformatics
+- */rosalind* is my progress through the challenges at www.rosalind.info as I try to learn bioinformatics (temporarily private)
 - */lims* is a laboratory-focused data management system (currently private)
 
 <!---
