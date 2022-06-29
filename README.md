@@ -17,6 +17,7 @@ Repos of Interest:
 - */rosalind* is my progress through the challenges at www.rosalind.info
 - */lims* is a laboratory-focused data management system (currently private)
 - */snake-eyes* is a fun little game I made during my A-Levels
+- */obsidian* is my obsidian vault that automatically backs up
 
 <!---
 dancooper37/dancooper37 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
