@@ -25,7 +25,7 @@ Repos of Interest:
 
 <h1>Hello &#128075;</h1>
 
-I'm Dan, a biochemsitry student at the University of Liverpool. A lot of the stuff you find here is probably related to that (bioinformatics, structural stuff etc...) but occasionally I do other things. 
+I'm Dan, a biochemsitry student at the University of Liverpool. A lot of the stuff you find here is probably related to that, but occasionally I do other things. 
 
 <!--
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=dancooper37&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
