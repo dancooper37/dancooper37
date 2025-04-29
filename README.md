@@ -10,7 +10,7 @@ Repos of Interest:
 
 <h1>Hello &#128075;</h1>
 
-I'm Dan, a biochemsitry student at the University of Liverpool. A lot of the stuff you find here is probably related to that, but occasionally I do other things. 
+I'm Dan, a protein biochemist based in the Department of Biochemistry, Cell and Systems Biology at The University of Liverpool, UK.
 
 <!--
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=dancooper37&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
@@ -56,12 +56,9 @@ Github Pages
 <a href=""><img alt="NumPy" src="https://img.shields.io/badge/-NumPy-14354C?logo=numpy&logoColor=white&style=plastic"></a>
 <a href=""><img alt="Jupyter" src="https://img.shields.io/badge/-Jupyter-F37626?logo=jupyter&logoColor=white&style=plastic"></a>
 <a href=""><img alt="Anaconda" src="https://img.shields.io/badge/-Anaconda-14354C?logo=anaconda&logoColor=white&style=plastic"></a>
-<a href=""><img alt="PyTorch" src="https://img.shields.io/badge/-PyTorch-14354C?logo=pytorch&logoColor=white&style=plastic"></a>
-<a href=""><img alt="Tensorflow" src="https://img.shields.io/badge/-Tensorflow-14354C?logo=tensorflow&logoColor=white&style=plastic"></a>
 
 
 <a href=""><img alt="PyCharm" src="https://img.shields.io/badge/-PyCharm-000000?logo=pycharm&logoColor=white&style=plastic"></a>
-<a href=""><img alt="DataSpell" src="https://custom-icon-badges.demolab.com/badge/-DataSpell-000000?logo=dataspell&logoColor=white&style=plastic"></a>
 <a href=""><img alt="IntelliJ" src="https://img.shields.io/badge/-IntelliJ-000000?logo=intellijidea&logoColor=white&style=plastic"></a>
 <a href=""><img alt="RStudio" src="https://img.shields.io/badge/-RStudio-75AADB?logo=rstudio&logoColor=white&style=plastic"></a>
 
